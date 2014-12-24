@@ -16,7 +16,7 @@ if ($done == true)
 {
 	header("Location:login.php");
 }else{
-	echo "username / email already exists";
+	header("Location:signup3.php");
 }
 
 
