@@ -31,11 +31,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">News</a>
+              <a class="navbar-brand" href="home.php">Home</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav" style="float: right; margin-right: 15px;">
-                <li><a href="login3.php">Sign In</a></li>
+                <li><a href="signup.php">Sign Up</a></li>
               </ul>
             </div>
           </div>
